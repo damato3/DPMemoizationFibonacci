@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 /// Demo of the Memoization Dynamic programming technique in the
 /// fibonacci series.
 ///
